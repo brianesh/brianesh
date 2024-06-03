@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianesh
 - 👀 I’m interested in Tech.
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me yobrasilva@gmail.com or +254758489080
 - I am highly conversent with linux-based environments.
 
